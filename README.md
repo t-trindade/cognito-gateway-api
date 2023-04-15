@@ -20,3 +20,8 @@
 
 #### O gateway API é responsável por centralizar todas requisições fazendo um roteamento para as aplicações conforme o path recebido.
 
+## Diagrama:
+
+<p align="center">
+ <img src="https://drive.google.com/uc?export=view&id=1XO_LzWMDgx9MTQVdSd2dmWigtv6O-Www" width="600" alt="Banner Flexpag">
+</p>
